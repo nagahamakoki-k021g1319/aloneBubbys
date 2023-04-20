@@ -235,6 +235,7 @@ void GameScene::Update() {
 			scene = Scene::Select;
 		}
 
+
 		//音声再生
 		if (soundCheckFlag == 0) {
 			//音声再生
